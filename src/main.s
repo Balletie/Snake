@@ -1,4 +1,4 @@
-e Testing
+Testing
 
 .global main, clear
 .global time 
