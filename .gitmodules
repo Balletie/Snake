@@ -1,0 +1,3 @@
+[submodule "bootlib"]
+	path = bootlib
+	url = git://github.com/m-ou-se/bootlib.git
