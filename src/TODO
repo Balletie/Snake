@@ -1,0 +1,12 @@
+TODO:
+
+- Implement food for the snake
+	Add elements to the array
+
+- Implement a scoring system
+	Show high-scores
+
+- In MAIN:
+    Create loop:
+	Handle the input
+		Implement directions
