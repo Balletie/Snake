@@ -20,13 +20,13 @@ or column gets incremented or decremented, depending on the direction variable.
 
 Here's a basic drawing, in which the direction of the snake's head is upwards:
 
-[13][20]	[12][20]
+[13][20]------->[12][20]
 
-[13][21]	[13][20]
+[13][21]------->[13][20]
 
-[14][21] ----->	[13][21]
+[14][21]------->[13][21]
 
-[15][21]	[14][21]
+[15][21]------->[14][21]
 
 ## The Mouse:
 
