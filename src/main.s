@@ -205,6 +205,3 @@ snake_length:   .long   0       #The length of the snake
 
 direction:      .byte   0       #The current direction of the snake
 new_direction:  .byte   0       #The next direction of the snake
-
-.data
-score_count:    .byte   -1
