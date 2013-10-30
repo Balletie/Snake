@@ -1,5 +1,6 @@
-Testing
-
+## Main file:
+#Updates
+#Rendering
 .global main, clear
 .global time 
 .global score, score_inc, high_score, score_count
