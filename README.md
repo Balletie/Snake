@@ -6,10 +6,11 @@ called "bootlib" (see the LICENSE and README files in the bootlib directory), ma
 You may do whatever you want to do with this, as long as it also complies with the License of the bootlib library!
 
 Thank you and enjoy!
----
-# Information about how the game works:
 
-## The Snake:
+---
+## Information about how the game works:
+
+### The Snake:
 
 The basis of the snake is a two-dimensional array, where each element of the array consists of an array of two elements,
 the row and the column of one tile of the snake.
@@ -20,8 +21,11 @@ or column gets incremented or decremented, depending on the direction variable.
 Here's a basic drawing, in which the direction of the snake's head is upwards:
 
 [13][20]	[12][20]
+
 [13][21]	[13][20]
-[14][21] ----->	[13[[21]
+
+[14][21] ----->	[13][21]
+
 [15][21]	[14][21]
 
 ## The Mouse:
