@@ -1,3 +1,5 @@
+#Snake
+
 Hello!
 
 This is the source code of the bootable game Snake I have made. It is written in Assembly, using a tiny library 
@@ -28,7 +30,7 @@ Here's a basic drawing, in which the direction of the snake's head is upwards:
 
 [15][21]------->[14][21]
 
-## The Mouse:
+### The Mouse:
 
 The location of the mouse is generated using a Linear Congruential Pseudo-Random Number Generator. The modulo 40 or 24 (depending whether
 we want the row or the column of the next mouse) will then be taken of this random number, to obtain a random location within the bounds
